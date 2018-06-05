@@ -12,13 +12,24 @@ tou to choose what files you want to save in the commit so it adds flexibility.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can stage files which were affected by this particular logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you are going to expirement with your project. When you want create parallel
+similar version of your project.
+
 How do the diagrams help you visualize the branch structure?
+
+Very much ). You can trace parents by this diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+In result we got 1 combined branch. Now, from this point you have access to both 
+branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Much quicker. Could be uncontrolled bugs.
