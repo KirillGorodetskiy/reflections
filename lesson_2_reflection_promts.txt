@@ -6,6 +6,9 @@ file .git creates which is contained with all relevant ifo about repository.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Stagin are is a middle stage between working directory and repo. This area allows
+tou to choose what files you want to save in the commit so it adds flexibility.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
