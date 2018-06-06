@@ -1,0 +1,2 @@
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+May be easier will be working with small projects in small teams. Harder will be working with big projects and big teams.
